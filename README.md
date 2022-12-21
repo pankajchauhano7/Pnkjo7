@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Pankaj Chauhan @Pnkjo7
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java,SpringBoot,Microservices
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at pcpankajo7@gmail.com
 

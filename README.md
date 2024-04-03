@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pankaj Chauhan @Pnkjo7
 - 👀 I’m interested in Software Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me at pcpankajo7@gmail.com
 
 <!---

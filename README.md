@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Pankaj Chauhan @Pnkjo7
-- 👀 I’m interested in Software Development
-- 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me at pcpankajo7@gmail.com
+Software Developer from Himachal Pradesh, IN.
+I primarily work with Python, React, Django.
 
 <!---
 Pnkjo7/Pnkjo7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

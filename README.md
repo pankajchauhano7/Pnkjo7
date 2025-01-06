@@ -1,5 +1,5 @@
 Software Developer from Himachal Pradesh, IN.
-I primarily work with Python, React, Django.
+I primarily work with Python, React, Flask.
 
 <!---
 Pnkjo7/Pnkjo7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
